@@ -5,7 +5,8 @@ void add(int a,int b){
 }
 
 public static void main(String[]args){
-  
+  HelloWorld h = new HelloWorld();
+ h.add(10,20);
    
 }
 }
